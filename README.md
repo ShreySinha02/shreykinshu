@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreykinshu&label=Profile%20views&color=0e75b6&style=flat" alt="shreykinshu" /> </p>
 
-- 💬 Ask me about **Flutter, Django**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **shrey8340@gamil.com**
 
